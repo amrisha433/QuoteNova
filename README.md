@@ -55,6 +55,6 @@ Jetpack Compose UI development,
 <img width="181" height="369" alt="Screenshot 2026-06-10 at 6 08 07 PM" src="https://github.com/user-attachments/assets/40af7337-d06f-482c-a1e6-637e437317f3" />
 
 
-👩‍💻 Author
-Amrisha Maurya
-Android Developer | Kotlin & Jetpack Compose Enthusiast
+👩‍💻 Author :
+ Amrisha Maurya |
+ Android Developer | Kotlin & Jetpack Compose Enthusiast
